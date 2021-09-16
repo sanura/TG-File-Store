@@ -27,7 +27,7 @@
       "value": ""
     },
     "UPDATE_CHANNEL": {
-      "description": "Your bot updates channel like To Watch Next Subtitles Bot Update (username without @ for forcesub). (Leave empty it you don't want to add)",
+      "description": "Your bot updates channel like To Watch Next Movie Bot Updates (username without @ for forcesub). (Leave empty it you don't want to add)",
       "value": "",
       "required": false
     },
