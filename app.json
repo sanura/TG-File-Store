@@ -7,10 +7,8 @@
     "Store",
     "Files"
   ],
-  "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
-  "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
-  "repository": "https://github.com/Ns-Bots/TG-File-Store",
+  "logo": "https://scontent.fcmb2-2.fna.fbcdn.net/v/t39.30808-6/p526x296/239948293_177869681139272_5025625809119798658_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=3p4vQ2Ifp-gAX-UaJXi&_nc_ht=scontent.fcmb2-2.fna&oh=5b6adf8b38feb71c66aff2ad61fc44f3&oe=614892B6",
+  
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -29,7 +27,7 @@
       "value": ""
     },
     "UPDATE_CHANNEL": {
-      "description": "Your bot updates channel like Ns_bot_updates (username without @ for forcesub). (Leave empty it you don't want to add)",
+      "description": "Your bot updates channel like To Watch Next Subtitles Bot Update (username without @ for forcesub). (Leave empty it you don't want to add)",
       "value": "",
       "required": false
     },
@@ -59,7 +57,7 @@
   }
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Itz-fork"
   }, {
     "url": "heroku/python"
   }],
